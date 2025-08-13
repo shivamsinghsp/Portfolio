@@ -25,7 +25,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
       <head>
         <title>Alex Thompson - Creative Developer</title>
         <meta name="description" content="Creative developer blending code, design, and storytelling to build digital experiences that feel alive." />
-        <meta property="og:title" content="Alex Thompson - Creative Developer" />
+        <meta property="og:title" content="Shivam Singh - Creative Developer" />
         <meta property="og:description" content="Creative developer blending code, design, and storytelling to build digital experiences that feel alive." />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
