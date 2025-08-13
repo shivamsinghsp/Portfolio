@@ -23,7 +23,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <title>Alex Thompson - Creative Developer</title>
+        <title>Shivam Singh - Creative Developer</title>
         <meta name="description" content="Creative developer blending code, design, and storytelling to build digital experiences that feel alive." />
         <meta property="og:title" content="Shivam Singh - Creative Developer" />
         <meta property="og:description" content="Creative developer blending code, design, and storytelling to build digital experiences that feel alive." />
