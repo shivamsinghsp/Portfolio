@@ -30,7 +30,7 @@ export default function Footer() {
           {/* Copyright and love note */}
           <div className="text-center md:text-right">
             <p className="text-sm text-muted-foreground">
-              © 2025 Alex Thompson. All rights reserved.
+              © 2025 Shivam Singh. All rights reserved.
             </p>
             <motion.p
               initial={{ opacity: 0 }}
